@@ -1,0 +1,506 @@
+[
+    {
+        "category": "Classic",
+        "question": "I would tell you a joke about Velcro, but it’s a total rip-off.",
+        "answer": ""
+    },
+    {
+        "category": "Classic",
+        "question": "Why don’t skeletons ever go trick-or-treating?",
+        "answer": "Because they have nobody to go with."
+    },
+    {
+        "category": "Classic",
+        "question": "Why did the scarecrow win an award?",
+        "answer": "Because he was outstanding in his field."
+    },
+    {
+        "category": "Classic",
+        "question": "Why was the math book sad?",
+        "answer": "Because it had too many problems."
+    },
+    {
+        "category": "Classic",
+        "question": "Why couldn't the bicycle stand up by itself?",
+        "answer": "It was two-tired."
+    },
+    {
+        "category": "Classic",
+        "question": "Did you hear the joke about the piece of paper?",
+        "answer": "Never mind, it's tear-able."
+    },
+    {
+        "category": "Classic",
+        "question": "I like elevator jokes.",
+        "answer": "They are uplifting on so many levels."
+    },
+    {
+        "category": "Classic",
+        "question": "I ate a clock yesterday.",
+        "answer": "It was very time-consuming."
+    },
+    {
+        "category": "Classic",
+        "question": "I told my doctor that I broke my arm in two places.",
+        "answer": "He told me to stop going to those places."
+    },
+    {
+        "category": "Classic",
+        "question": "Why did the man get fired from the calendar factory?",
+        "answer": "He took a couple of days off."
+    },
+    {
+        "category": "Classic",
+        "question": "What did the ocean say to the beach?",
+        "answer": "Nothing, it just waved."
+    },
+    {
+        "category": "Classic",
+        "question": "What did one wall say to the other?",
+        "answer": "I'll meet you at the corner."
+    },
+    {
+        "category": "Classic",
+        "question": "How do you make a tissue dance?",
+        "answer": "You put a little boogie in it."
+    },
+    {
+        "category": "Classic",
+        "question": "A blind man walks into a bar.",
+        "answer": "And a table. And a chair."
+    },
+    {
+        "category": "Classic",
+        "question": "What did the chimney say to the fireplace?",
+        "answer": "You're too hot for me."
+    },
+    {
+        "category": "Classic",
+        "question": "Why did the coffee file a police report?",
+        "answer": "It got mugged."
+    },
+    {
+        "category": "Classic",
+        "question": "What do you call a fake noodle?",
+        "answer": "An impasta."
+    },
+    {
+        "category": "Classic",
+        "question": "What does a dentist call an astronaut's cavity?",
+        "answer": "A black hole."
+    },
+    {
+        "category": "Classic",
+        "question": "What does a willow tree say when it’s sad?",
+        "answer": "I'm weeping."
+    },
+    {
+        "category": "Classic",
+        "question": "What do you call a shoe made out of a banana?",
+        "answer": "A slipper."
+    },
+
+    {
+        "category": "Animal Cracks",
+        "question": "How does a penguin build its house?",
+        "answer": "Igloos it together."
+    },
+    {
+        "category": "Animal Cracks",
+        "question": "What do you call a cow with no legs?",
+        "answer": "Ground beef."
+    },
+    {
+        "category": "Animal Cracks",
+        "question": "What do you call an alligator in a vest?",
+        "answer": "An investigator."
+    },
+    {
+        "category": "Animal Cracks",
+        "question": "What do you call a bear with no teeth?",
+        "answer": "A gummy bear."
+    },
+    {
+        "category": "Animal Cracks",
+        "question": "Where do frogs keep their money?",
+        "answer": "In a riverbank."
+    },
+    {
+        "category": "Animal Cracks",
+        "question": "A duck walks into a store and says, \"Put some chapstick on my bill.\"",
+        "answer": ""
+    },
+    {
+        "category": "Animal Cracks",
+        "question": "What do you call a fish with no eyes?",
+        "answer": "A fsh."
+    },
+    {
+        "category": "Animal Cracks",
+        "question": "What do you call a bee that can’t make up its mind?",
+        "answer": "A maybee."
+    },
+    {
+        "category": "Animal Cracks",
+        "question": "What kind of magician is a dog?",
+        "answer": "A Labracadabrador."
+    },
+    {
+        "category": "Animal Cracks",
+        "question": "Why can't you play cards in the jungle?",
+        "answer": "There are too many cheetahs."
+    },
+    {
+        "category": "Animal Cracks",
+        "question": "What is a cat's favourite colour?",
+        "answer": "Purr-ple."
+    },
+    {
+        "category": "Animal Cracks",
+        "question": "Why do seagulls fly over the sea?",
+        "answer": "Because if they flew over the bay, they'd be bagels."
+    },
+    {
+        "category": "Animal Cracks",
+        "question": "What do you call a pig that knows karate?",
+        "answer": "A pork chop."
+    },
+    {
+        "category": "Animal Cracks",
+        "question": "Where do sheep go to get a haircut?",
+        "answer": "The baa-baa shop."
+    },
+    {
+        "category": "Animal Cracks",
+        "question": "Why did the horse cross the road?",
+        "answer": "Because the neighbor told him to quit horsing around."
+    },
+    {
+        "category": "Animal Cracks",
+        "question": "Why don't crabs give to charity?",
+        "answer": "Because they're shellfish."
+    },
+    {
+        "category": "Animal Cracks",
+        "question": "What do you call a dinosaur that crashes his car?",
+        "answer": "Tyrannosaurus Wrecks."
+    },
+    {
+        "category": "Animal Cracks",
+        "question": "What do spiders do for fun on the weekend?",
+        "answer": "Web surf."
+    },
+    {
+        "category": "Animal Cracks",
+        "question": "How do you know if there is an elephant under your bed?",
+        "answer": "Your nose touches the ceiling."
+    },
+    {
+        "category": "Animal Cracks",
+        "question": "Why did the owl invite his friends over?",
+        "answer": "He didn't want to be owl by himself."
+    },
+
+    {
+        "category": "Knock-Knock",
+        "question": "Knock, knock. Who’s there? Boo.",
+        "answer": "Boo who? Don’t cry, it’s just a joke!"
+    },
+    {
+        "category": "Knock-Knock",
+        "question": "Knock, knock. Who’s there? Lettuce.",
+        "answer": "Lettuce who? Lettuce in, it’s freezing out here!"
+    },
+    {
+        "category": "Knock-Knock",
+        "question": "Knock, knock. Who’s there? Cows go.",
+        "answer": "Cows go who? No, cows go moo!"
+    },
+    {
+        "category": "Knock-Knock",
+        "question": "Knock, knock. Who’s there? Harry.",
+        "answer": "Harry who? Harry up and open the door!"
+    },
+    {
+        "category": "Knock-Knock",
+        "question": "Knock, knock. Who’s there? Tank.",
+        "answer": "Tank who? You’re welcome!"
+    },
+    {
+        "category": "Knock-Knock",
+        "question": "Knock, knock. Who’s there? Ache.",
+        "answer": "Ache who? Bless you!"
+    },
+    {
+        "category": "Knock-Knock",
+        "question": "Knock, knock. Who’s there? Orange.",
+        "answer": "Orange who? Orange you glad I didn't say banana?"
+    },
+    {
+        "category": "Knock-Knock",
+        "question": "Knock, knock. Who’s there? Etch.",
+        "answer": "Etch who? Bless you again! Friend, you need a tissue."
+    },
+    {
+        "category": "Knock-Knock",
+        "question": "Knock, knock. Who’s there? Adore.",
+        "answer": "Adore who? Adore is between us, so please open it."
+    },
+    {
+        "category": "Knock-Knock",
+        "question": "Knock, knock. Who’s there? Europe.",
+        "answer": "Europe who? No, YOU'RE a poo!"
+    },
+    {
+        "category": "Knock-Knock",
+        "question": "Knock, knock. Who’s there? Dishes.",
+        "answer": "Dishes who? Dishes a very bad joke."
+    },
+    {
+        "category": "Knock-Knock",
+        "question": "Knock, knock. Who’s there? Luke.",
+        "answer": "Luke who? Luke through the keyhole and see."
+    },
+    {
+        "category": "Knock-Knock",
+        "question": "Knock, knock. Who’s there? Mustache.",
+        "answer": "Mustache who? I mustache you a question, but I’ll shave it for later."
+    },
+    {
+        "category": "Knock-Knock",
+        "question": "Knock, knock. Who’s there? Thermos.",
+        "answer": "Thermos who? Thermos-t be a better joke than this."
+    },
+    {
+        "category": "Knock-Knock",
+        "question": "Knock, knock. Who’s there? Atch.",
+        "answer": "Atch who? Wow, everyone is sneezing today."
+    },
+    {
+        "category": "Knock-Knock",
+        "question": "Knock, knock. Who’s there? Justin.",
+        "answer": "Justin who? Justin time for dinner!"
+    },
+    {
+        "category": "Knock-Knock",
+        "question": "Knock, knock. Who’s there? Annie.",
+        "answer": "Annie who? Annie body home?"
+    },
+    {
+        "category": "Knock-Knock",
+        "question": "Knock, knock. Who’s there? Woo.",
+        "answer": "Woo who? Don't get too excited, it's just a knock-knock joke."
+    },
+    {
+        "category": "Knock-Knock",
+        "question": "Knock, knock. Who’s there? Hatch.",
+        "answer": "Hatch who? Seriously, go buy some cold medicine."
+    },
+    {
+        "category": "Knock-Knock",
+        "question": "Knock, knock. Who’s there? Kanga.",
+        "answer": "Kanga who? Actually, it's Kangaroo."
+    },
+
+    {
+        "category": "Walks Into a Bar",
+        "question": "A dyslexic man walks into a bra.",
+        "answer": ""
+    },
+    {
+        "category": "Walks Into a Bar",
+        "question": "A Roman walks into a bar, holds up two fingers, and says, \"Five beers, please.\"",
+        "answer": ""
+    },
+    {
+        "category": "Walks Into a Bar",
+        "question": "A line of jumper cables walks into a bar.",
+        "answer": "The bartender says, \"You can stay, but don't start anything.\""
+    },
+    {
+        "category": "Walks Into a Bar",
+        "question": "A mushroom walks into a bar.",
+        "answer": "The bartender says, \"We don't serve your kind.\" The mushroom says, \"Why not? I'm a fungi!\""
+    },
+    {
+        "category": "Walks Into a Bar",
+        "question": "A sandwich walks into a bar.",
+        "answer": "The bartender says, \"Sorry, we don't serve food here.\""
+    },
+    {
+        "category": "Walks Into a Bar",
+        "question": "A string walks into a bar.",
+        "answer": "The bartender says, \"We don't serve strings.\" The string goes outside, twists himself up, rubs his ends, walks back in. The bartender asks, \"Aren't you that string?\" The string replies, \"No, I'm a frayed knot.\""
+    },
+    {
+        "category": "Walks Into a Bar",
+        "question": "A bear walks into a bar and says, \"Give me a gin and...................... tonic.\"",
+        "answer": "The bartender asks, \"Why the big pause?\" The bear looks at his hands and says, \"I was born with them!\""
+    },
+    {
+        "category": "Walks Into a Bar",
+        "question": "Two bytes walk into a bar.",
+        "answer": "One says, \"I think I'm sick.\" The other asks, \"Are you feeling okay?\" The first replies, \"No, just a bit.\""
+    },
+    {
+        "category": "Walks Into a Bar",
+        "question": "An infinite number of mathematicians walk into a bar.",
+        "answer": "The first orders a pint. The second orders a half pint. The third orders a quarter pint. The bartender pours two pints, slams them on the bar, and says, \"You guys need to learn your limits.\""
+    },
+    {
+        "category": "Walks Into a Bar",
+        "question": "A neutron walks into a bar and orders a drink.",
+        "answer": "He asks, \"How much?\" The bartender replies, \"For you, no charge.\""
+    },
+    {
+        "category": "Walks Into a Bar",
+        "question": "Time walks into a bar.",
+        "answer": "The bartender says, \"Hey! We don't serve your kind in here.\" Time walks out, and a second later, a minute walks in."
+    },
+    {
+        "category": "Walks Into a Bar",
+        "question": "A past, a present, and a future walk into a bar.",
+        "answer": "It was tense."
+    },
+    {
+        "category": "Walks Into a Bar",
+        "question": "A comma walks into a bar.",
+        "answer": "The bartender says, \"We don't serve punctuation here, it causes too many pauses.\""
+    },
+    {
+        "category": "Walks Into a Bar",
+        "question": "A ghost walks into a bar.",
+        "answer": "The bartender says, \"Sorry, we don't serve spirits after midnight.\""
+    },
+    {
+        "category": "Walks Into a Bar",
+        "question": "A grammar teacher walks into a bar.",
+        "answer": "\"Can I have a drink?\" she asks. The bartender says, \"I don't know, can you?\""
+    },
+    {
+        "category": "Walks Into a Bar",
+        "question": "Gold walks into a bar.",
+        "answer": "The bartender yells, \"Au! Get out of here!\""
+    },
+    {
+        "category": "Walks Into a Bar",
+        "question": "A helium atom walks into a bar.",
+        "answer": "The bartender says, \"We don't serve noble gases here.\" The helium doesn't react."
+    },
+    {
+        "category": "Walks Into a Bar",
+        "question": "A structural engineer walks into a bar.",
+        "answer": "He looks up and says, \"Looks stable.\""
+    },
+    {
+        "category": "Walks Into a Bar",
+        "question": "A broken pencil walks into a bar.",
+        "answer": "The bartender says, \"I can't serve you, you have no point.\""
+    },
+    {
+        "category": "Walks Into a Bar",
+        "question": "An eyeball walks into a bar.",
+        "answer": "The bartender says, \"Look who it is!\""
+    },
+
+    {
+        "category": "One-Liners & Tech",
+        "question": "Parallel lines have so much in common.",
+        "answer": "It’s a shame they’ll never meet."
+    },
+    {
+        "category": "One-Liners & Tech",
+        "question": "My wife told me to stop impersonating a flamingo.",
+        "answer": "I had to put my foot down."
+    },
+    {
+        "category": "One-Liners & Tech",
+        "question": "I told my wife she was drawing her eyebrows too high.",
+        "answer": "She looked surprised."
+    },
+    {
+        "category": "One-Liners & Tech",
+        "question": "There are 10 types of people in the world.",
+        "answer": "Those who understand binary, and those who don't."
+    },
+    {
+        "category": "One-Liners & Tech",
+        "question": "What is a programmer's favorite hangout place?",
+        "answer": "Foo Bar."
+    },
+    {
+        "category": "One-Liners & Tech",
+        "question": "Why do programmers prefer dark mode?",
+        "answer": "Because light attracts bugs."
+    },
+    {
+        "category": "One-Liners & Tech",
+        "question": "Why did the developer quit his job?",
+        "answer": "Because he didn't get arrays."
+    },
+    {
+        "category": "One-Liners & Tech",
+        "question": "How many programmers does it take to change a light bulb?",
+        "answer": "None, that's a hardware problem."
+    },
+    {
+        "category": "One-Liners & Tech",
+        "question": "I have a great joke about construction.",
+        "answer": "But I’m still working on it."
+    },
+    {
+        "category": "One-Liners & Tech",
+        "question": "I used to play piano by ear.",
+        "answer": "But now I use my hands."
+    },
+    {
+        "category": "One-Liners & Tech",
+        "question": "My boss told me to have a good day.",
+        "answer": "So I went home."
+    },
+    {
+        "category": "One-Liners & Tech",
+        "question": "I'm reading a book on anti-gravity.",
+        "answer": "I just can't put it down."
+    },
+    {
+        "category": "One-Liners & Tech",
+        "question": "I couldn't figure out how to fasten my seatbelt.",
+        "answer": "Then it suddenly clicked."
+    },
+    {
+        "category": "One-Liners & Tech",
+        "question": "The graveyard is incredibly popular.",
+        "answer": "People are dying to get in."
+    },
+    {
+        "category": "One-Liners & Tech",
+        "question": "I quit my job at the helium factory.",
+        "answer": "I refused to be spoken to in that tone."
+    },
+    {
+        "category": "One-Liners & Tech",
+        "question": "I used to be a banker.",
+        "answer": "But I lost interest."
+    },
+    {
+        "category": "One-Liners & Tech",
+        "question": "I don’t trust stairs.",
+        "answer": "They’re always up to something."
+    },
+    {
+        "category": "One-Liners & Tech",
+        "question": "Giving up sofa cushion hunting is hard.",
+        "answer": "It’s a comfortable routine."
+    },
+    {
+        "category": "One-Liners & Tech",
+        "question": "Why is it that lookups take so long?",
+        "answer": "Because you have to index everything."
+    },
+    {
+        "category": "One-Liners & Tech",
+        "question": "The rotation of the earth really makes my day.",
+        "answer": ""
+    }
+]
